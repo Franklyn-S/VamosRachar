@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VamosRachar</string>
+    <string name="temos_que_rachar">Temos que rachar!</string>
+    <string name="initial_value">R$ 0,00</string>
+</resources>
