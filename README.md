@@ -6,6 +6,9 @@ This app is in Portuguese-BR and it is a simple app that helps you calculate the
 ## Usage
 One could download and run the project in android studio and get the APK.
 
+### App Screen
+![VamosRachar](https://raw.githubusercontent.com/Franklyn-S/VamosRachar/master/VamosRachar-AppScreen.png)
+
 ## License
 
 The contents of this repository are covered under the [MIT License](LICENSE).
